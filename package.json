@@ -1,0 +1,32 @@
+{
+  "name": "Legion Bot",
+  "version": "0.1.0",
+  "description": "Discord Game Stats Bot",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^11.2.0",
+    "gamedig": "^1.0.37",
+    "pubg-api-redis": "^3.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://www.github.com/nrpatten/node-gamebot.git"
+  },
+  "author": "Nathan Patten",
+  "license": "MIT",
+  "bugs": {
+    "url": "http://www.github.com/nrpatten/node-gamebot/issues"
+  },
+  "homepage": "http://www.github.com/nrpatten/node-gamebot",
+  "keywords": [
+    "arma",
+    "pubg",
+    "discord",
+    "stats"
+  ]
+}
